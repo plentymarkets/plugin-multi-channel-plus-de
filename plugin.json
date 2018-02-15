@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Plus.de ist in plentymarkets 7 bereits integriert. Um Plus.de in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Plus.de nötig.",
-    "en": "Plus.de is already integrated into your plentymarkets 7 system. A Plus.de seller account is mandatory for setting up Plus.de in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Plus.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Plus.de zu listen. Die Schnittstelle zu Plus.de ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Plus.de enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Plus.de. The interface to Plus.de is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
